@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋, I'm Amey
 
-<!--
-**Anonymousscoder/Anonymousscoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring DevOps Engineer with a background in web development and Java.
 
-Here are some ideas to get you started:
+🌱 Currently learning:
+- Linux
+- Docker
+- Git & GitHub
+- AWS
+- CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack:
+- Java
+- JavaScript
+- HTML5
+- CSS3
+- MySQL
+- Python
+
+🚀 Projects:
+- Web Scrappy – Python web scraping tool
+- Automation scripts
+- DevOps learning projects
+
+🎯 Current Goal:
+Building hands-on projects in DevOps and cloud technologies.
+
+📫 Connect with me:
+- LinkedIn: https://www.linkedin.com/in/amey-k-239a08390/
+
+
+
